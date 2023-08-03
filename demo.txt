@@ -2,3 +2,4 @@ java
 reactjs
 AWS Architect
 Jenkins
+maven
